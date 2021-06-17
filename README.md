@@ -2,7 +2,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-! [ELK Network Diagram](Diagrams/ELK Network Diagram.jpg)
+! [ELK Network Diagram](https://github.com/Mason-cmyk/ELK/blob/5b1d97f9c1d82f03149ef65bebba54cdb88e69e1/Diagrams/ELK%20Network%20Diagram.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
